@@ -1,1 +1,1 @@
-include 'sleuth', 'brave'
+include 'sleuth', 'brave', 'zipkin'
