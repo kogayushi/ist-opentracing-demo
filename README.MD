@@ -1,4 +1,4 @@
-# Distributed
+# Distributed Tracing Demonstration
 ## preparation
 run zipkin server
 ```bash
